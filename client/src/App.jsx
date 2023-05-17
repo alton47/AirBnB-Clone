@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-      <div>
+      <div className='underline mx-11'>
         Niajee
       </div>
   )
